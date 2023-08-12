@@ -9,6 +9,11 @@ I'm passionate about the world of **technology and innovation**, and that's why 
 * *Utilized C# programming to implement game mechanics, player interactions, and user interfaces.*
 * *Gained practical experience in scripting, debugging, and optimizing game elements for a smoother player experience.*
 
+**Languages**
+* English (C1 - Advanced Level)
+* Spanish (Native)
+* Catalan (Native)
+
 ## Interests 🔭
 **Science** 
 * I have a deep passion for topics related to **space exploration**, physical theories that explain the world behaviour and physical mechanics that can be aplied to virtual worlds.
